@@ -24,8 +24,8 @@ This repository is used to host public legal pages through GitHub Pages so they 
 After GitHub Pages is enabled, the pages will be available at:
 
 ```text
-https://YOUR_USERNAME.github.io/lexinest-legal/privacy-policy.html
-https://YOUR_USERNAME.github.io/lexinest-legal/terms-and-conditions.html
+https://github.com/naresh-game-studio/lexinest-legal/blob/main/privacy-policy.html
+https://github.com/naresh-game-studio/lexinest-legal/blob/main/terms-and-conditions.html
 ```
 
 Replace `YOUR_USERNAME` with the actual GitHub username.
